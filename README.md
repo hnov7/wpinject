@@ -1,0 +1,2 @@
+# wpinject
+# Exploit Title: WP Content Injection # Date: 31 Jan' 2017 # Exploit Author: Harsh Jaiswal # Vendor Homepage: http://wordpress.org # Version: Wordpress 4.7 - 4.7.1 (Patched in 4.7.2) # Tested on: Backbox ubuntu Linux # Based on https://blog.sucuri.net/2017/02/content-injection-vulnerability-wordpress-rest-api.html # Credits : Marc, Sucuri, Brute # usage : gem install rest-client  # Lang : Ruby  
